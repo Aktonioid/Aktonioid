@@ -37,12 +37,12 @@
 </thead>
 <tbody>
   <tr>
-    <td><a herf="https://github.com/Aktonioid/more5.0">Карта отделений и банкомаов для банка</a> </td>
+    <td><a href="https://github.com/Aktonioid/more5.0">Карта отделений и банкомаов для банка</a> </td>
     <td>Приложение для определения ближайшего банкомата или отделения банка</td>
     <td>Spring, java 17, Spting boot</td>
   </tr>
   <tr>
-    <td><a herf=https://github.com/Aktonioid/DemoApi>Сайт для учителя младших классов</a></td>
+    <td><a href="https://github.com/Aktonioid/DemoApi">Сайт для учителя младших классов</a></td>
     <td>Приложение для учителя младших классов для удобной выдачи материала на время удалённой работы </td>
     <td>C#, asp.net</td>
   </tr>
@@ -53,4 +53,3 @@
   </tr> -->
 </tbody>
 </table>
-<a herf="https://github.com/Aktonioid/more5.0">Карта отделений и банкомаов для банка</a>
