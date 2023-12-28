@@ -37,7 +37,7 @@
 </thead>
 <tbody>
   <tr>
-    <td><a herf=https://github.com/Aktonioid/more5.0>Карта отделений и банкомаов для банка</a></td>
+    <td><a herf="https://github.com/Aktonioid/more5.0">Карта отделений и банкомаов для банка</a></td>
     <td>Приложение для определения ближайшего банкомата или отделения банка</td>
     <td>Spring, java 17, Spting boot</td>
   </tr>
