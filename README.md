@@ -34,7 +34,6 @@
 
 
 ### Проекты
-[Api для склада книжного магазина](https://github.com/Aktonioid/bookStorage "link")
 <table>
 <thead>
   <tr>
