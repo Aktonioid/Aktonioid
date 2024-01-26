@@ -32,6 +32,12 @@
 ### Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aktonioid&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
+### Coding challenges
+
+|Репозиторий|Название|
+|----|----|
+|(Adventure-of-code-2023)[https://github.com/Aktonioid/Adventure-of-code-2023]|Репозиторий с моими решениями для adv of code 2023|
+
 
 ### Проекты
 <table>
