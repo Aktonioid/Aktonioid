@@ -62,7 +62,7 @@
   <tr>
     <td><a href="https://github.com/Aktonioid/java_blog">Простой блог с авторизацией</a></td>
     <td>Текствоый блог с авторизацией и аутентификацией при помощи jwt</td>
-    <td>java< Spring< Spring boot</td>
+    <td>java, Spring, Spring boot</td>
   </tr>
    <tr>
     <td><a href="https://github.com/Aktonioid/bookStorage">Api для склада книжного магазина</a></td>
