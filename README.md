@@ -67,7 +67,7 @@
    <tr>
     <td><a href="https://github.com/Aktonioid/bookStorage">Api для склада книжного магазина</a></td>
     <td>Апи для склада енижного магазина, которая при поллучении товара или отправки его покупателю генерирует сметы(Допиливаю)</td>
-    <td>java 17, spring boot, mysql, hibernate
+    <tdSpring, mysql, hibernate, java 17
     </td>
   </tr>
   <tr>
