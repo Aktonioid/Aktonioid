@@ -66,7 +66,7 @@
   </tr>
    <tr>
     <td><a href="https://github.com/Aktonioid/bookStorage">Api для склада книжного магазина</a></td>
-    <td>Апи для склада енижного магазина, которая при поллучении товара или отправки его покупателю генерирует сметы(Допиливаю)</td>
+    <td>Апи для склада книжного магазина, которая при поллучении товара или отправки его покупателю генерирует сметы(Допиливаю)</td>
     <td>Spring, mysql, hibernate, java 17
     </td>
   </tr>
@@ -74,6 +74,11 @@
     <td><a href="https://github.com/Aktonioid/BookShop/tree/master">Апи для книжного магазина</a></td>
     <td>Апи для склада книжного магазина с аутентификацией с помощью jwt</td>
     <td>java 17, spring boot, postgresql, hibernate</td>
+  </tr>
+ <<tr>
+    <td><a href="https://github.com/Aktonioid/scheduleApp">Приложение для прививания привычек</a></td>
+    <td>Приложение для прививания пользователю привычек с авторизацией выполненной при помощи гугловского oauth</td>
+    <td>java 17, spring boot, postgres, hibernate, spring security</td>
   </tr>
   <!-- <tr>
     <td></td>
